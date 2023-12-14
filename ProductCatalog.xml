@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+<SmartSpeakerCatalog>
+    <smartspeaker id="Bose One">
+        <name>Bose One</name>
+        <price>99</price>
+        <image>boseone.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+
+	 <smartspeaker id="Bose Two">
+        <name>Bose Two</name>
+        <price>150</price>
+        <image>bosetwo.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+	
+	<smartspeaker id="Amazon One">
+        <name>Amazon One</name>
+        <price>200</price>
+        <image>amazonone.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+	 
+	<smartspeaker id="Amazon Two">
+        <name>Amazon Two</name>
+        <price>350</price>
+        <image>amazontwo.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+
+	<smartspeaker id="Sony One">
+        <name>Sony One</name>
+        <price>99.99</price>
+        <image>sonyone.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+
+	<smartspeaker id="Sony Two">
+        <name>Sony Two</name>
+        <price>299.99</price>
+        <image>sonytwo.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+	
+	<smartspeaker id="Samsung One">
+        <name>Samsung One</name>
+        <price>149.99</price>
+        <image>samsungone.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+
+	<smartspeaker id="Samsung Two">
+        <name>Samsung Two</name>
+        <price>199.99</price>
+        <image>samsungtwo.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+	
+	<smartspeaker id="Google One">
+        <name>Google One</name>
+        <price>199.99</price>
+        <image>googleone.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+
+	<smartspeaker id="Google Two">
+        <name>Google Two</name>
+        <price>299.99</price>
+        <image>googletwo.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </smartspeaker>
+
+</SmartSpeakerCatalog>
+
+<SmartDoorlockCatalog>
+
+    <smartdoorlock id="August One">
+        <name>August One</name>
+        <price>199.99</price>
+        <image>augustone.jpg</image>
+        <manufacturer>August</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </smartdoorlock>
+
+    <smartdoorlock id="August Two">
+        <name>August Two</name>
+        <price>299.99</price>
+        <image>augusttwo.jpg</image>
+        <manufacturer>August</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+    </smartdoorlock>
+
+    <smartdoorlock id="Schlage One">
+        <name>Schlage One</name>
+        <price>149.99</price>
+        <image>schlageone.jpg</image>
+        <manufacturer>Schlage</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartdoorlock>
+
+	<smartdoorlock id="Schlage Two">
+        <name>Schlage Two</name>
+        <price>249.99</price>
+        <image>schlagetwo.jpg</image>
+        <manufacturer>Schlage</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartdoorlock>
+
+    <smartdoorlock id="Yale One">
+        <name>Yale One</name>
+        <price>149.99</price>
+        <image>yaleone.jpg</image>
+        <manufacturer>Yale</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartdoorlock>
+
+    <smartdoorlock id="Yale Two">
+        <name>Yale Two</name>
+        <price>199.99</price>
+        <image>yaletwo.jpg</image>
+        <manufacturer>Yale</manufacturer>
+        <condition>New</condition>
+        <discount>12.0</discount>
+    </smartdoorlock>
+
+	<smartdoorlock id="Level One">
+        <name>Level One</name>
+        <price>199.99</price>
+        <image>levelone.jpg</image>
+        <manufacturer>Level</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+    </smartdoorlock>
+
+	<smartdoorlock id="Level Two">
+        <name>Level Two</name>
+        <price>300</price>
+        <image>leveltwo.jpg</image>
+        <manufacturer>Level</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+    </smartdoorlock>
+
+	<smartdoorlock id="Lockly One">
+        <name>Lockly One</name>
+        <price>125.99</price>
+        <image>locklyone.jpg</image>
+        <manufacturer>Lockly</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </smartdoorlock>
+
+	<smartdoorlock id="Lockly Two">
+        <name>Lockly Two</name>
+        <price>195.99</price>
+        <image>locklytwo.jpg</image>
+        <manufacturer>Lockly</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+    </smartdoorlock>
+
+</SmartDoorlockCatalog>
+
+<SmartDoorbellCatalog>
+
+<smartdoorbell  id="Nest One">
+        <name>Nest One</name>
+        <price>105.99</price>
+        <image>nestone.jpg</image>
+        <manufacturer>Nest</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Nest Two">
+        <name>Nest Two</name>
+        <price>200.99</price>
+        <image>nesttwo.jpg</image>
+        <manufacturer>Nest</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Arlo One">
+        <name>Arlo One</name>
+        <price>89.99</price>
+        <image>arloone.jpg</image>
+        <manufacturer>Arlo</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Arlo Two">
+        <name>Arlo Two</name>
+        <price>126.99</price>
+        <image>arlotwo.jpg</image>
+        <manufacturer>Arlo</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Eufy One">
+        <name>Eufy One</name>
+        <price>100.99</price>
+        <image>eufyone.jpeg</image>
+        <manufacturer>Eufy</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Eufy Two">
+        <name>Eufy Two</name>
+        <price>185.99</price>
+        <image>eufytwo.jpg</image>
+        <manufacturer>Eufy</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Wyze One">
+        <name>Wyze One</name>
+        <price>146.99</price>
+        <image>wyzeone.jpg</image>
+        <manufacturer>Wyze</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Wyze  Two">
+        <name>Wyze Two</name>
+        <price>249.99</price>
+        <image>wyzetwo.jpeg</image>
+        <manufacturer>Wyze</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Ringbell One">
+        <name>Ringbell One</name>
+        <price>145.99</price>
+        <image>ringbellone.jpg</image>
+        <manufacturer>Ringbell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+<smartdoorbell id="Ringbell Two">
+        <name>Ringbell Two</name>
+        <price>295.99</price>
+        <image>ringbelltwo.jpeg</image>
+        <manufacturer>Ringbell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</smartdoorbell>
+
+</SmartDoorbellCatalog>
+
+
+<SmartLightingCatalog>
+
+    <smartlighting id="Nanoleaf One">
+        <name>Nanoleaf One</name>
+        <price>150.99</price>
+        <image>nanoleafone.jpg</image>
+        <manufacturer>Nanoleaf</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+     </smartlighting>
+
+    <smartlighting id="Nanoleaf Two">
+        <name>Nanoleaf Two</name>
+        <price>299.99</price>
+        <image>nanoleaftwo.jpg</image>
+        <manufacturer>Nanoleaf</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+    </smartlighting>
+	 
+	<smartlighting id="Philips Oone">
+        <name>Philips Oone</name>
+        <price>159.99</price>
+        <image>philipsone.jpg</image>
+        <manufacturer>Philips</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+    </smartlighting>
+
+    <smartlighting id="Philips Two">
+        <name>Philips Two</name>
+        <price>298.99</price>
+        <image>philipstwo.jpg</image>
+        <manufacturer>Philips</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+    </smartlighting>
+	 
+	<smartlighting id="Tplink One">
+		<name>Tplink One</name>
+		<price>189.99</price>
+		<image>tplinkone.jpg</image>
+		<manufacturer>Tplink</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+	</smartlighting>
+
+	<smartlighting id="Tplink Two">
+		<name>Tplink Two</name>
+		<price>289.99</price>
+		<image>tplinktwo.jpg</image>
+		<manufacturer>Tplink</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+	</smartlighting>
+	 
+	<smartlighting id="Govee One">
+		<name>Govee One</name>
+		<price>149.99</price>
+		<image>goveeone.jpg</image>
+		<manufacturer>Govee</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+	</smartlighting>
+	 
+	<smartlighting id="Govee Two">
+		<name>Govee Two</name>
+		<price>189.99</price>
+		<image>goveetwo.jpg</image>
+		<manufacturer>Govee</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+	</smartlighting>
+
+	<smartlighting id="Ring One">
+		<name>Ring One</name>
+		<price>99.99</price>
+		<image>ringone.jpg</image>
+		<manufacturer>Ring</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+	</smartlighting>
+	 
+	<smartlighting id="Ring Two">
+		<name>Ring Two</name>
+		<price>199.99</price>
+		<image>ringtwo.jpg</image>
+		<manufacturer>Ring</manufacturer>
+		<condition>New</condition>
+		<discount>15.0</discount>
+	</smartlighting>
+</SmartLightingCatalog>
+
+</ProductCatalog>
