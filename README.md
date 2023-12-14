@@ -4,11 +4,11 @@
 
 ## Step 1: Install Tomcat Apache Server
 
-Download and install the Tomcat Apache server as the application server by following the guidelines discussed in the class.
+Download and install the Tomcat Apache server as the application server.
 
 ## Step 2: Install MySQL
 
-Download and install MySQL on your local system by following the guidelines discussed in the class.
+Download and install MySQL on your local system.
 
 ## Step 3: Create Database
 
